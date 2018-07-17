@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Esta es mi pagina
-big-img: /img/start.jpg
+bigimg: /img/start.jpg
 permalink: /proyecto/
 ---
 
