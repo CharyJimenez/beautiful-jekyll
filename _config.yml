@@ -17,13 +17,13 @@ baseurl: "/newproyect"
 title: New Proyect
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Proyecto de Jekyll con Github by Chary Jimenez
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/Avatar_Dog.png"
 
 # List of links in the navigation bar
 navbar-links:
