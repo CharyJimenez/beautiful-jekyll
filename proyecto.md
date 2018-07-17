@@ -2,7 +2,7 @@
 layout: page
 title: Esta es mi pagina
 big-img: /img/fotoportada.jpg
-permalink: /mi_proyecto/
+permalink: /proyecto/
 ---
 
 # Lorem ipsum dolor
