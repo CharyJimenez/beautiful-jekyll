@@ -3,7 +3,6 @@ layout: page
 title: Esta es mi pagina
 big-img: /img/fotoportada.jpg
 permalink: /mi pagina/
-![Texto alternativo](/img/fotoportada.jpg)
 ---
 
 # Lorem ipsum dolor
